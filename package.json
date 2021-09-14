@@ -1,0 +1,22 @@
+{
+  "name": "shopstore-mern",
+  "version": "1.0.0",
+  "description": "MERN shopping cart app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/egrinberg/ShopStore-MERN.git"
+  },
+  "author": "Kate Grinberg",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/egrinberg/ShopStore-MERN/issues"
+  },
+  "homepage": "https://github.com/egrinberg/ShopStore-MERN#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
